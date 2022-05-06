@@ -1,0 +1,10 @@
+"    let saida=1;";i;i<n;saida=multiply(x,saida);return saida
+1;0;0<8 true;saida=2*1;-
+2;1;true;saida=2*2;-
+4;2;true;saida=4*2;-
+8;3;true;saida=8*2;-
+16;4;true;saida=16*2;-
+32;5;true;saida=32*2;-
+64;6;true;saida=64*2;-
+128;7;true;saida=128*2;-
+"    let saida=256";8;8<8 false;-;saida=256

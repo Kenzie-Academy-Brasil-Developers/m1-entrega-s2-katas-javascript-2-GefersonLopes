@@ -1,0 +1,6 @@
+"let fatorial=1;";" i=g";i>0;fatorial=multiply(i,fatorial);return fatorial
+1;4;true;fatoria=4*1;-
+4;3;true;fatoria=4*3;-
+12;2;true;fatoria=12*2;-
+24;1;true;fatorial=24*1;-
+24;0;false;-;fatoria=24

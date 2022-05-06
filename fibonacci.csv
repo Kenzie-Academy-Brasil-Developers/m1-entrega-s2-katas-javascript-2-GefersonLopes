@@ -1,0 +1,2 @@
+numero<1;return 0;numero<=2;return 1;else {add(fibonacci(numero-1),fibonacci(numero-2))}
+false;-;false;-;(3)+(1)=4
